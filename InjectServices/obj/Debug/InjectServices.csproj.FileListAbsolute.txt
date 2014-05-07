@@ -1,0 +1,6 @@
+E:\Examples\InjectServices\InjectServices\bin\Debug\InjectServices.exe.config
+E:\Examples\InjectServices\InjectServices\bin\Debug\InjectServices.exe
+E:\Examples\InjectServices\InjectServices\bin\Debug\InjectServices.pdb
+E:\Examples\InjectServices\InjectServices\obj\Debug\InjectServices.exe
+E:\Examples\InjectServices\InjectServices\obj\Debug\InjectServices.pdb
+E:\Examples\InjectServices\InjectServices\obj\Debug\InjectServices.csprojResolveAssemblyReference.cache

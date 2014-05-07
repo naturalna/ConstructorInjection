@@ -1,0 +1,5 @@
+E:\Examples\InjectServices\TestExtension\bin\Debug\TestExtension.exe.config
+E:\Examples\InjectServices\TestExtension\bin\Debug\TestExtension.exe
+E:\Examples\InjectServices\TestExtension\bin\Debug\TestExtension.pdb
+E:\Examples\InjectServices\TestExtension\obj\Debug\TestExtension.exe
+E:\Examples\InjectServices\TestExtension\obj\Debug\TestExtension.pdb
